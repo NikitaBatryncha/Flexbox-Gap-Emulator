@@ -1,4 +1,3 @@
-# dev
 Flexbox Gap Emulator
 
 Hello! Thank you for trying out Flexbox Gap Emulator! This code was created with the help of ChatGPT. I created the Flexbox Gap Emulator for my educational project, but I hope it will be useful to you as well. The Flexbox Gap Emulator is designed to emulate the gap property in flexbox elements by replacing it with margin.
